@@ -1,11 +1,12 @@
 import React from 'react';
 import Dashboard from './pages/Dashboard';
-function App() {
+import GlobalStyles from './styles/GlobalStyles';
+const App: React.FC = ()=> {
   return (
-		<div className="App">
-			<h1>Iniciando o projeto</h1>
+		<>
+			<GlobalStyles/>
 			<Dashboard/>
-    </div>
+    </>
   );
 }
 
