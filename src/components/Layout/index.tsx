@@ -1,5 +1,5 @@
 import React from 'react';
-import {Grid} from './style';
+import { Grid } from './style';
 import Aside from '../Aside';
 import Content from '../Content';
 import MainHeader from '../MainHeader';
