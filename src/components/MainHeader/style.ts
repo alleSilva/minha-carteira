@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 export const Container = styled.div`
 	grid-area: MH;
-	background-color: red;
+	background-color: ${props => props.theme.colors.secundary};
 `;
 
 
