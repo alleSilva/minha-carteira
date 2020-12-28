@@ -5,8 +5,8 @@ const dark = {
 		secundary: '#252A48',
 		tertiary: '#313862',
 
-		black: '#FFF',
-		white: '#000',
+		black: '#000',
+		white: '#FFF',
 		grey: '#BFBFBF',
 
 		success: '#4E41F0',

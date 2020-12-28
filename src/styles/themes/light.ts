@@ -5,8 +5,8 @@ const light = {
 		secundary: '#FFFFFF',
 		tertiary: '#F5F5F5',
 
-		black: '#000',
-		white: '#FFF',
+		black: '#FFF',
+		white: '#000',
 		grey: '#BFBFBF',
 
 		success: '#03BB85',
