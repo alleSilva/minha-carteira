@@ -1,10 +1,13 @@
 import React from 'react';
-import Switch from 'react-switch';
-import {Container, ToggleLabel} from './style';
+
+import {Container, 
+        ToggleLabel, 
+        ToggleSelector} from './style';
+
 const Toggle: React.FC = () => (
   <Container>
     <ToggleLabel>Dark</ToggleLabel>
-    <Switch 
+    <ToggleSelector 
       checked
       checkedIcon={false}
       uncheckedIcon={false}

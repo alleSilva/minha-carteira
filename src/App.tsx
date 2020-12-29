@@ -7,7 +7,7 @@ import dark from './styles/themes/dark';
 
 const App: React.FC = ()=> {
   
-  const toggle = true;
+  const toggle = false;
 
   return (
 	<>
